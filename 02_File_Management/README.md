@@ -331,3 +331,11 @@ After completing this task, you should understand how to:
 - Display file contents
 - Search for files
 - Delete files safely
+
+- ---
+
+# Practice Screenshot
+
+Below is my hands-on Linux file management practice performed on an AWS EC2 instance.
+
+![Linux File Management Practice](file-management-practice.png)
